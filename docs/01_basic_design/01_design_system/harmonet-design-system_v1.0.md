@@ -128,3 +128,5 @@ HarmoNet Design System v1 は、「静かで、安心できる、永く使える
 **Created:** 2025-10-27  
 **Author:** GPT Design Team (HarmoNet)
 
+githu sync test
+
