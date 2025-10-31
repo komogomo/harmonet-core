@@ -90,4 +90,4 @@ Version: [版番号]
 **Last Updated:** 2025-10-31  
 **Version:** 1.0  
 
-
+[→ AI Council Session 01 Review](./docs/common/ai-council-session01_review_v1.0.md)
