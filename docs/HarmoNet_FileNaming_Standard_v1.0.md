@@ -83,3 +83,5 @@ HarmoNet/
 この命名規則は、HarmoNetプロジェクトの設計書・UIコード・統合資料を対象とし、  
 ファイルのソート安定性・AI可読性・Git運用効率を最大化するための基準である。  
 すべてのAI（Claude, GPT, Gemini, Copilot）はこの規則を共通基盤として参照する。
+
+github読み取りテスト
